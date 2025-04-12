@@ -18,7 +18,7 @@ CreeperVision is a lightweight Python-based remote viewing system. It streams re
 ## Install & Run
 
 ```bash
-git clone https://github.com/surprisephoku/creepervision.git
-cd creepervision
+git clone https://github.com/surprisephoku/creepervision9000.git
+cd creepervision9000
 pip install -r requirements.txt
 python server.py
